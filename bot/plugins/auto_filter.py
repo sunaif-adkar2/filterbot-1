@@ -146,7 +146,7 @@ async def auto_filter(bot, update):
         len_results = len(results)
         results = None # Free Up Memory
         
-        FIND[query] = {"results": result, "total_len": len_results, "max_pages": max_pages} # TrojanzHex's Idea Of Dicts😅
+        FIND[query] = {"results": result, "total_len": len_results, "max_pages": max_pages} # TrojanzHex's Idea Of Dicts😄
 
         # Add next buttin if page count is not equal to 1
         if len_result != 1:
