@@ -1,15 +1,15 @@
-### Pro Auto Filter Bot V2
+### Auto Filter Bot V1
 
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/MoTechYT/Pro-Auto-Filter-Bot-V2?style=social">
+  <a href="https://github.com/sunaif-adkar2/filterbot-1/stargazers">
+    <img src="https://img.shields.io/github/stars/sunaif-adkar2/filterbot-1l?style=social">
 
   </a>
   
-  <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/MoTechYT/Pro-Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/sunaif-adkar2/filterbot-1/fork">
+    <img src="https://img.shields.io/github/forks/sunaif-adkar2/filterbot-1?label=Fork&style=social">
 
   </a>  
 </p>
