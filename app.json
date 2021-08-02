@@ -1,7 +1,7 @@
 {
-    "name": "Pro Auto Filter Bot V2",
-    "description": "Pro Auto Filter BoT V2 MoTect MRK_YT",
-    "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.png",
+    "name": "Auto Filter Bot V1",
+    "description": " the open source Auto Filter BoT V1",
+    "logo": "https://telegra.ph/file/086e98c97f4d936dceae0.jpg",
     "keywords": [
         "Pro",
         "Auto",
@@ -9,9 +9,9 @@
         "Bot",
         "V2"
     ],
-    "website": "https://github.com/MRK-YT",
+    "website": "https://github.com/sunaif-adkar2",
     "repository": "https://github.com:sunaif-adkar2/filterbot-1.git",
-    "success_url": "https://telegram.dog/mo_tech_yt",
+    "success_url": "https://telegram.dog/sunaif_adkar",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
