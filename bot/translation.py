@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG @MRK_YT
+# (c) @AlbertEinsteinTG @sunaif_adkar
 
 class Translation(object):
     
@@ -53,7 +53,7 @@ class Translation(object):
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/sunaif_adkar">👤sunaif_adkad</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/sunaif_adkar">👤sunaif_adkar</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
