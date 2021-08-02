@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sunaif-adkar2/filterbot-1/stargazers">
-    <img src="https://img.shields.io/github/stars/sunaif-adkar2/filterbot-1l?style=social">
+    <img src="https://img.shields.io/github/stars/sunaif-adkar2/filterbot-1?style=social">
 
   </a>
   
