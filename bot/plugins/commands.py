@@ -125,7 +125,7 @@ async def start(bot, update):
         InlineKeyboardButton('🗣️Group', url=f'{MT_GROUP}'),
         InlineKeyboardButton('Channel🔊', url=f'{MT_CHANNEL}')
     ],[
-        InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://t.me/sabotschannel/11')
+        InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/bi5fx1M54hY')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
