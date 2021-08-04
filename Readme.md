@@ -15,7 +15,7 @@
 </p>
 
 ### SetUp
-You can deploy this bot To heroku.
+By deploying heroku only
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sunaif-adkar2/filterbot-1/tree/main)
