@@ -22,7 +22,7 @@ By deploying heroku only
 
 #### You can check the video tutorial on how to deploy
 
-[Click Below the image for vudei](https://youtu.be/bi5fx1M54hY)
+[Click Below the image for video](https://youtu.be/bi5fx1M54hY)
 
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://telegra.ph/file/b6193169744c65f7c8675.jpg)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
