@@ -26,5 +26,4 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-#### watch deploying video🍂
-            [Click here](https://youtu.be/bi5fx1M54hY)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sunaif-adkar/sunaif-adkar)
