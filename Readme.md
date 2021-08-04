@@ -24,5 +24,5 @@ By deploying heroku only
 
 [Click Below the image for video](https://youtu.be/bi5fx1M54hY)
 
-  [![join](https://telegra.ph/file/569a44010f8c80ac45003.jpg)](https://youtu.be/bi5fx1M54hY)
+  [![join](https://telegra.ph/file/dfe3df9193723c302a243.jpg)](https://youtu.be/bi5fx1M54hY)
   <div align="center">
