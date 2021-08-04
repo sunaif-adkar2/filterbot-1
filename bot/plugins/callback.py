@@ -1647,7 +1647,7 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('🗣️𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='bit.ly/Botsupport'),
             InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/sabotschannel')
         ],[
-            InlineKeyboardButton('🖥️ 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚅𝚒𝚍𝚎𝚘 🖥️', url='https://youtu.be/OTqZmADyOjU')
+            InlineKeyboardButton('🖥️ 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕 𝚅𝚒𝚍𝚎𝚘 🖥️', url='https://youtu.be/bi5fx1M54hY')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
