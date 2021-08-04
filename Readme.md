@@ -19,3 +19,7 @@ You can deploy this bot To heroku.
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sunaif-adkar2/filterbot-1/tree/main)
+
+## You can check the video tutorial on how to deploy
+
+[Click here to see tutorial video](https://youtu.be/bi5fx1M54hY)
